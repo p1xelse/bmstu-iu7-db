@@ -1,0 +1,1101 @@
+consumer_id;order_id;courier_id;status;payment_method
+338;536;437;On the way;Card
+589;902;17;Commit;Cash
+363;223;412;On the way;Cash
+663;835;306;Commit;Card
+62;361;547;Commit;Cash
+261;543;72;Commit;Cash
+183;660;924;Delivered;Cash
+845;355;875;Commit;Cash
+739;563;770;Delivered;Card
+997;469;63;Commit;Cash
+798;154;371;On the way;Card
+533;463;805;On the way;Cash
+136;741;575;Delivered;Cash
+580;1083;543;Commit;Card
+1;597;823;On the way;Card
+481;321;1014;Commit;Cash
+1089;777;717;On the way;Card
+215;111;855;On the way;Cash
+1032;379;419;Delivered;Card
+417;874;753;Commit;Card
+1070;629;645;On the way;Card
+928;541;21;On the way;Card
+495;832;250;On the way;Cash
+874;215;729;Commit;Card
+275;294;40;On the way;Card
+1084;448;221;Delivered;Card
+890;82;814;On the way;Cash
+909;854;26;Commit;Cash
+330;541;590;Delivered;Cash
+598;10;1068;On the way;Cash
+298;110;628;On the way;Cash
+416;609;190;On the way;Card
+868;608;112;Delivered;Cash
+296;191;439;On the way;Cash
+901;912;435;Commit;Card
+207;386;922;Commit;Cash
+789;398;22;Commit;Card
+867;95;403;On the way;Card
+308;722;1093;Delivered;Card
+314;5;334;Delivered;Card
+104;330;623;On the way;Cash
+386;698;1016;Delivered;Cash
+570;247;284;On the way;Cash
+65;645;214;Delivered;Cash
+14;288;452;Commit;Card
+162;833;743;Delivered;Cash
+427;413;688;Delivered;Cash
+28;579;1010;On the way;Card
+336;1036;960;Delivered;Card
+871;846;789;Delivered;Cash
+1079;421;444;On the way;Cash
+1038;304;689;On the way;Card
+777;767;168;Commit;Card
+1071;455;924;Commit;Card
+404;330;1005;Commit;Cash
+652;706;235;On the way;Cash
+998;203;112;Delivered;Cash
+999;986;80;Delivered;Card
+613;949;753;On the way;Cash
+319;904;504;On the way;Cash
+364;355;448;Delivered;Card
+597;649;1029;Delivered;Cash
+308;25;864;Delivered;Card
+523;152;944;Commit;Card
+551;405;831;Delivered;Card
+977;1038;821;On the way;Card
+818;204;31;On the way;Cash
+488;29;529;Delivered;Cash
+600;1089;1040;Commit;Card
+1053;252;1092;Delivered;Cash
+860;364;815;On the way;Card
+87;567;113;On the way;Cash
+1065;293;855;On the way;Card
+539;174;1046;Delivered;Cash
+446;444;948;Commit;Cash
+660;60;588;On the way;Card
+1026;313;244;Delivered;Card
+1038;153;179;Delivered;Cash
+484;408;950;On the way;Card
+794;359;265;Delivered;Cash
+360;1017;810;Delivered;Cash
+977;786;774;Delivered;Cash
+830;243;23;Commit;Card
+901;826;503;Commit;Card
+916;52;443;On the way;Cash
+236;150;886;Commit;Cash
+795;826;735;Commit;Card
+39;964;740;Delivered;Cash
+227;600;748;Delivered;Cash
+37;743;746;Commit;Cash
+772;802;420;Commit;Card
+722;523;802;Commit;Card
+239;942;414;Commit;Cash
+377;996;357;Commit;Cash
+731;792;262;Commit;Card
+1043;503;999;Delivered;Cash
+356;427;328;Commit;Cash
+789;845;367;Commit;Card
+10;381;80;On the way;Card
+1061;289;866;Commit;Cash
+124;896;979;Delivered;Cash
+463;30;877;Delivered;Cash
+155;653;527;On the way;Cash
+808;575;899;Commit;Card
+184;622;832;On the way;Card
+701;1070;386;On the way;Cash
+681;888;348;Delivered;Card
+186;653;875;Delivered;Card
+691;210;1060;Delivered;Card
+723;344;250;Delivered;Cash
+380;972;571;Commit;Card
+223;525;406;Delivered;Cash
+856;367;824;Commit;Card
+540;1004;89;Commit;Card
+897;54;113;Commit;Cash
+372;601;1061;Commit;Cash
+233;99;654;On the way;Card
+211;1033;881;On the way;Cash
+863;1096;107;Commit;Card
+740;20;68;Commit;Card
+801;867;688;On the way;Card
+881;205;833;Commit;Cash
+548;428;816;Delivered;Cash
+524;301;716;On the way;Cash
+449;235;486;On the way;Card
+1056;1029;315;Commit;Cash
+429;413;160;On the way;Cash
+355;603;1049;Delivered;Card
+547;137;906;On the way;Card
+622;1045;753;On the way;Card
+99;252;391;Delivered;Cash
+298;324;377;On the way;Cash
+633;509;936;On the way;Card
+944;757;262;Delivered;Cash
+522;36;609;Delivered;Card
+636;867;317;Delivered;Cash
+917;954;693;Delivered;Card
+309;313;815;On the way;Card
+988;241;451;Delivered;Cash
+526;887;631;Delivered;Card
+101;275;841;Delivered;Cash
+462;1079;523;Delivered;Cash
+462;372;504;Commit;Cash
+1030;521;1056;Delivered;Cash
+5;393;339;Commit;Card
+115;554;762;Delivered;Cash
+1065;1041;115;On the way;Card
+277;56;1006;On the way;Card
+581;300;61;On the way;Cash
+328;131;341;Commit;Card
+624;924;863;Delivered;Card
+618;18;993;On the way;Cash
+609;1038;244;Commit;Cash
+1096;214;441;Delivered;Cash
+248;23;800;Delivered;Card
+359;354;444;Delivered;Card
+204;362;882;Delivered;Card
+242;680;246;On the way;Cash
+630;720;294;On the way;Cash
+834;1093;1089;Delivered;Cash
+237;100;1017;On the way;Card
+339;60;733;On the way;Cash
+696;254;811;Commit;Card
+293;265;376;On the way;Card
+768;963;273;Commit;Card
+1023;377;865;On the way;Cash
+607;175;595;On the way;Cash
+1020;901;376;On the way;Cash
+105;291;119;Delivered;Cash
+483;239;988;On the way;Card
+162;1095;1035;Delivered;Cash
+309;696;371;Delivered;Cash
+481;958;117;Delivered;Cash
+1081;407;691;On the way;Card
+496;454;70;Commit;Card
+375;480;982;On the way;Cash
+362;119;61;Commit;Cash
+390;1037;405;Delivered;Card
+21;761;160;Commit;Card
+507;524;1012;Delivered;Cash
+676;349;671;On the way;Card
+234;312;914;Delivered;Cash
+116;464;47;Commit;Card
+650;73;569;On the way;Cash
+861;230;1039;On the way;Cash
+334;137;861;Commit;Cash
+264;288;526;On the way;Cash
+386;605;355;Delivered;Cash
+34;361;291;On the way;Cash
+68;739;749;Delivered;Cash
+221;657;433;Commit;Cash
+719;743;582;Delivered;Card
+98;590;1074;Commit;Cash
+205;534;494;On the way;Cash
+1092;756;203;On the way;Card
+28;168;810;Delivered;Cash
+737;77;533;On the way;Cash
+287;630;24;On the way;Cash
+428;736;1017;Commit;Card
+65;401;20;Delivered;Card
+769;923;154;Commit;Card
+859;600;1;On the way;Card
+158;1;419;On the way;Cash
+604;659;790;Commit;Cash
+573;414;534;On the way;Cash
+4;291;498;Commit;Cash
+332;498;449;Delivered;Card
+192;894;233;Commit;Card
+951;373;880;Delivered;Cash
+561;198;362;On the way;Cash
+622;602;917;Commit;Cash
+1090;122;264;Commit;Card
+90;244;659;Delivered;Card
+614;1029;475;On the way;Card
+911;783;57;Delivered;Cash
+339;864;335;Commit;Cash
+372;701;924;On the way;Card
+270;589;941;Commit;Cash
+892;145;244;On the way;Card
+687;965;346;Delivered;Cash
+448;88;375;Commit;Cash
+186;634;589;On the way;Cash
+477;854;1059;Delivered;Card
+936;388;968;On the way;Card
+598;571;726;On the way;Cash
+352;730;978;Delivered;Card
+391;1097;267;Commit;Cash
+60;95;485;Delivered;Card
+965;898;488;On the way;Cash
+968;588;404;On the way;Card
+84;407;239;Delivered;Card
+240;152;276;On the way;Card
+152;421;38;Delivered;Cash
+277;426;94;Delivered;Cash
+431;595;858;On the way;Cash
+295;170;603;On the way;Cash
+30;275;1008;Delivered;Cash
+504;555;1081;Delivered;Cash
+488;352;769;Delivered;Card
+177;904;173;On the way;Cash
+49;527;370;Commit;Card
+509;17;1085;On the way;Card
+665;633;231;Commit;Card
+444;919;124;On the way;Card
+480;356;811;Delivered;Cash
+19;823;120;On the way;Cash
+273;35;746;On the way;Card
+310;10;338;Delivered;Cash
+982;1006;112;Commit;Card
+904;927;928;On the way;Card
+633;524;260;Delivered;Cash
+1053;1095;578;On the way;Card
+812;1083;874;Delivered;Card
+425;164;629;Commit;Card
+113;447;140;On the way;Card
+515;819;910;On the way;Cash
+146;210;1004;Delivered;Cash
+64;441;1015;Commit;Cash
+894;113;1045;Delivered;Card
+850;728;501;On the way;Card
+634;578;150;On the way;Card
+144;762;577;Delivered;Cash
+191;162;1023;On the way;Cash
+1088;171;286;Delivered;Card
+331;469;860;Delivered;Card
+781;853;1061;Delivered;Cash
+486;214;585;On the way;Cash
+740;457;1024;Commit;Card
+324;615;158;Commit;Cash
+790;1012;436;Commit;Card
+672;504;858;Delivered;Card
+568;758;379;On the way;Card
+15;278;838;Delivered;Card
+52;1080;661;On the way;Cash
+1008;802;40;On the way;Card
+581;136;787;On the way;Card
+774;538;909;Commit;Cash
+573;1034;817;Commit;Cash
+1081;546;788;Delivered;Cash
+1033;864;754;Delivered;Card
+453;844;482;Commit;Cash
+802;624;477;On the way;Cash
+129;474;224;Delivered;Cash
+998;656;968;Delivered;Cash
+1096;359;644;Commit;Card
+1000;700;334;On the way;Card
+806;239;122;Commit;Cash
+361;532;183;On the way;Cash
+785;199;14;Commit;Cash
+746;48;737;Commit;Cash
+315;267;1002;On the way;Cash
+275;128;539;Delivered;Cash
+1006;261;423;Commit;Card
+879;166;942;On the way;Card
+992;520;343;On the way;Card
+888;931;897;Delivered;Cash
+499;79;508;Commit;Cash
+930;354;385;Commit;Cash
+867;671;983;On the way;Card
+210;457;48;Delivered;Card
+705;540;963;Commit;Cash
+811;805;1059;Commit;Card
+645;1030;111;On the way;Cash
+376;874;839;On the way;Card
+970;274;440;On the way;Cash
+430;1094;345;Delivered;Cash
+526;1086;67;On the way;Card
+779;505;392;Delivered;Cash
+336;813;177;On the way;Card
+660;818;72;Delivered;Card
+800;192;545;On the way;Card
+905;407;660;On the way;Card
+661;893;204;Delivered;Card
+359;183;458;Commit;Card
+8;947;753;Delivered;Card
+652;929;20;On the way;Cash
+479;92;573;Delivered;Card
+780;1007;924;On the way;Cash
+283;918;209;Commit;Cash
+820;996;612;Delivered;Card
+277;209;51;Delivered;Cash
+294;335;186;On the way;Cash
+475;1072;248;Commit;Card
+572;338;4;Commit;Card
+135;610;920;On the way;Card
+421;582;1080;Commit;Cash
+750;68;369;Commit;Cash
+267;711;1028;Commit;Cash
+1058;621;1081;Commit;Cash
+201;304;765;On the way;Cash
+908;433;702;Commit;Card
+511;871;571;On the way;Card
+466;857;771;Commit;Cash
+833;474;1035;Commit;Card
+75;182;692;Delivered;Cash
+782;965;941;Commit;Cash
+734;872;683;On the way;Card
+848;397;537;Delivered;Card
+73;87;15;On the way;Cash
+198;814;394;On the way;Card
+474;256;741;Delivered;Cash
+396;827;542;Commit;Card
+1004;75;641;Commit;Card
+888;1059;871;On the way;Cash
+605;775;138;Delivered;Card
+72;600;76;Delivered;Card
+958;925;1022;Commit;Card
+168;852;497;On the way;Card
+653;540;863;Delivered;Cash
+1097;571;524;Commit;Card
+427;155;770;Commit;Cash
+336;285;544;On the way;Card
+722;1000;1054;Commit;Card
+237;276;680;Delivered;Card
+696;594;892;Commit;Cash
+538;887;5;Commit;Cash
+684;734;559;Delivered;Cash
+387;60;233;Delivered;Card
+238;691;573;Commit;Card
+295;934;490;Commit;Cash
+172;652;962;On the way;Cash
+289;924;888;Commit;Card
+969;465;255;Commit;Card
+131;516;613;On the way;Cash
+943;154;318;Commit;Card
+335;888;786;Delivered;Card
+72;157;266;Delivered;Card
+365;48;805;Delivered;Cash
+333;759;537;On the way;Card
+961;65;492;On the way;Card
+841;89;319;On the way;Cash
+1068;198;142;Commit;Cash
+56;1060;390;Delivered;Cash
+556;46;86;Delivered;Cash
+119;806;1061;Delivered;Cash
+952;748;703;On the way;Cash
+1057;916;68;Commit;Cash
+1056;380;724;Delivered;Cash
+949;229;98;On the way;Cash
+686;896;1011;On the way;Cash
+1019;813;373;Delivered;Cash
+841;571;1095;On the way;Cash
+406;872;542;On the way;Cash
+807;260;812;On the way;Cash
+748;153;333;Delivered;Card
+1056;634;618;Commit;Cash
+1008;1071;530;Delivered;Card
+535;111;897;Commit;Card
+992;920;1025;Delivered;Cash
+156;186;197;Delivered;Card
+132;406;915;Delivered;Cash
+734;271;615;Commit;Card
+937;651;170;On the way;Card
+244;925;637;Delivered;Card
+974;875;560;Commit;Card
+299;862;271;On the way;Card
+562;818;1028;Commit;Cash
+256;633;81;Commit;Cash
+190;647;435;Delivered;Card
+301;578;729;Commit;Card
+431;544;413;Commit;Card
+1003;967;556;On the way;Card
+122;654;1058;Commit;Card
+6;997;126;Commit;Cash
+690;224;737;Delivered;Card
+398;42;267;Delivered;Cash
+226;1047;689;On the way;Card
+824;50;1044;On the way;Cash
+798;780;462;On the way;Card
+1033;125;464;On the way;Card
+55;1100;383;Delivered;Card
+1000;1051;335;Commit;Cash
+951;612;748;On the way;Cash
+1089;287;338;On the way;Card
+422;856;141;On the way;Card
+22;570;160;On the way;Cash
+272;293;98;Delivered;Cash
+23;1095;756;On the way;Cash
+1011;217;157;Delivered;Cash
+491;226;986;Delivered;Cash
+119;818;331;Delivered;Cash
+1017;728;423;Delivered;Card
+576;621;1053;On the way;Card
+638;523;927;On the way;Cash
+771;423;217;Delivered;Cash
+187;339;704;Commit;Card
+489;173;495;Delivered;Cash
+626;829;878;Delivered;Cash
+116;752;871;Delivered;Card
+889;961;564;Delivered;Card
+37;882;629;Delivered;Cash
+867;365;168;Delivered;Cash
+363;531;984;Commit;Cash
+849;689;882;Delivered;Card
+778;949;1083;Commit;Card
+552;273;680;Commit;Card
+960;888;418;On the way;Cash
+518;487;643;Commit;Card
+267;202;944;Commit;Card
+945;733;285;Delivered;Cash
+916;766;908;Commit;Card
+586;1034;485;On the way;Card
+253;225;1044;Commit;Cash
+1085;399;391;On the way;Card
+894;677;220;Commit;Card
+837;832;727;On the way;Card
+1015;725;332;Delivered;Cash
+260;484;1075;Commit;Card
+842;263;233;On the way;Cash
+118;220;1084;On the way;Cash
+712;664;548;On the way;Card
+403;29;713;Commit;Card
+421;191;166;On the way;Card
+602;154;988;Commit;Cash
+40;169;903;Commit;Card
+452;8;623;Commit;Cash
+225;71;1057;On the way;Cash
+447;273;1049;On the way;Cash
+941;534;437;On the way;Cash
+766;366;674;Commit;Card
+94;891;144;Delivered;Card
+617;130;857;Commit;Card
+1;792;1090;On the way;Card
+89;259;530;On the way;Card
+741;657;1029;On the way;Card
+524;762;872;Delivered;Cash
+144;212;421;On the way;Card
+675;413;197;On the way;Card
+352;588;1044;Commit;Card
+171;367;103;Commit;Card
+930;468;54;Delivered;Cash
+414;986;496;On the way;Card
+408;947;859;On the way;Cash
+120;68;34;On the way;Card
+49;784;11;Delivered;Card
+1057;371;89;Commit;Cash
+759;750;182;On the way;Card
+151;56;171;On the way;Card
+624;802;333;On the way;Card
+15;57;443;Commit;Card
+238;678;825;Delivered;Cash
+848;596;121;Commit;Card
+444;663;2;On the way;Card
+688;871;429;Commit;Card
+479;985;507;On the way;Cash
+392;763;774;Delivered;Cash
+993;1078;841;On the way;Card
+825;93;263;Delivered;Cash
+761;377;938;Delivered;Card
+44;753;809;Delivered;Cash
+718;830;496;On the way;Card
+493;449;984;On the way;Cash
+536;280;939;Delivered;Card
+305;1036;140;Commit;Card
+869;1050;314;Commit;Card
+443;897;573;Delivered;Card
+408;91;72;Delivered;Card
+772;351;323;Delivered;Cash
+122;749;512;On the way;Cash
+531;907;692;On the way;Card
+1085;473;706;Delivered;Cash
+471;447;627;Delivered;Card
+344;822;601;On the way;Cash
+606;708;469;Commit;Cash
+66;273;16;On the way;Cash
+975;77;359;Commit;Card
+324;444;788;Commit;Cash
+946;47;332;Commit;Card
+835;816;677;Delivered;Card
+969;442;138;On the way;Card
+415;117;837;Commit;Card
+853;524;235;Commit;Cash
+255;880;850;Delivered;Card
+723;732;94;On the way;Card
+84;808;787;Delivered;Card
+733;933;771;Delivered;Cash
+153;1028;709;Delivered;Card
+344;477;320;On the way;Card
+808;703;301;Delivered;Card
+907;73;173;Delivered;Cash
+538;1078;644;Delivered;Cash
+603;528;1027;Commit;Cash
+912;129;581;Commit;Card
+1069;1016;530;Commit;Card
+1016;593;155;Delivered;Cash
+1033;328;15;Delivered;Cash
+486;890;306;Delivered;Cash
+121;33;361;Delivered;Card
+510;843;465;Delivered;Card
+405;632;1027;Commit;Card
+1053;1039;838;Delivered;Card
+465;530;170;On the way;Card
+827;160;928;Delivered;Cash
+880;356;531;On the way;Cash
+995;555;533;Commit;Cash
+1055;196;784;Commit;Card
+399;677;733;On the way;Card
+80;967;985;Commit;Card
+131;214;677;On the way;Card
+1041;332;114;Commit;Card
+501;354;1090;Commit;Cash
+498;244;320;Delivered;Cash
+868;898;679;On the way;Cash
+61;229;195;Delivered;Card
+691;9;136;On the way;Cash
+687;485;491;Commit;Card
+102;438;288;Commit;Cash
+1021;398;593;Commit;Cash
+368;616;1004;Commit;Cash
+861;788;394;Commit;Card
+682;485;124;On the way;Cash
+407;481;108;On the way;Card
+1018;154;275;On the way;Card
+720;888;776;Delivered;Cash
+1088;621;1008;On the way;Card
+113;994;834;Delivered;Card
+660;253;79;On the way;Cash
+695;499;743;Delivered;Card
+96;265;756;Delivered;Card
+784;486;935;On the way;Cash
+948;522;1009;Delivered;Card
+88;174;937;Delivered;Cash
+978;676;1022;Delivered;Cash
+142;113;938;Commit;Card
+98;159;798;Commit;Cash
+451;853;432;On the way;Cash
+397;800;1017;On the way;Card
+829;220;881;On the way;Cash
+972;13;735;On the way;Card
+9;254;756;Commit;Card
+1057;625;1035;Delivered;Card
+313;852;33;Delivered;Card
+963;967;901;Delivered;Card
+461;1026;530;On the way;Cash
+1006;861;764;On the way;Cash
+108;89;457;On the way;Card
+152;568;357;On the way;Card
+374;1077;555;Delivered;Cash
+757;950;544;Commit;Card
+241;362;785;On the way;Cash
+632;605;110;Commit;Card
+499;585;395;Delivered;Cash
+1075;249;349;Delivered;Cash
+549;690;966;Delivered;Card
+71;738;64;On the way;Card
+1051;439;921;Commit;Card
+777;241;275;On the way;Cash
+242;916;25;On the way;Cash
+634;272;318;On the way;Cash
+576;499;176;Commit;Card
+503;1037;305;Delivered;Card
+992;420;530;Delivered;Cash
+994;474;1011;Delivered;Card
+834;682;889;Delivered;Card
+353;540;390;On the way;Card
+609;268;504;Delivered;Cash
+230;969;356;Delivered;Cash
+924;727;729;Commit;Cash
+938;746;505;Delivered;Cash
+719;776;21;On the way;Card
+625;621;366;Delivered;Card
+276;1039;744;Commit;Cash
+264;615;668;Delivered;Cash
+224;358;6;On the way;Card
+1040;364;722;On the way;Cash
+437;899;52;On the way;Card
+282;274;56;On the way;Cash
+285;765;943;Delivered;Card
+141;576;781;On the way;Card
+1072;818;232;Delivered;Card
+729;598;386;Delivered;Card
+656;301;231;Delivered;Card
+306;743;256;Commit;Cash
+889;356;123;Commit;Cash
+134;121;120;Commit;Card
+254;895;809;On the way;Card
+470;281;975;Delivered;Cash
+1099;1088;871;Delivered;Card
+865;727;657;Commit;Cash
+829;269;931;Commit;Card
+375;315;15;On the way;Cash
+714;927;211;Commit;Cash
+806;83;242;Commit;Cash
+381;552;928;Commit;Card
+1;714;855;On the way;Card
+399;500;844;On the way;Cash
+388;510;1079;Delivered;Cash
+661;329;520;Commit;Cash
+397;965;192;Commit;Cash
+1055;347;115;Delivered;Card
+608;284;594;Commit;Card
+456;939;554;Commit;Cash
+656;441;755;Commit;Card
+369;552;116;Delivered;Card
+125;135;295;Delivered;Card
+304;640;921;Commit;Cash
+1095;515;65;On the way;Card
+106;1060;548;On the way;Card
+265;998;283;On the way;Cash
+336;860;109;Delivered;Cash
+792;910;398;On the way;Cash
+294;247;179;Delivered;Cash
+997;40;525;Commit;Card
+821;606;843;Commit;Cash
+575;427;401;Delivered;Cash
+692;724;605;Commit;Card
+628;214;712;Commit;Card
+318;837;159;Commit;Card
+435;779;1010;Delivered;Card
+288;398;250;Commit;Cash
+730;289;632;Delivered;Card
+321;555;136;On the way;Card
+923;185;1030;On the way;Card
+339;327;775;On the way;Cash
+479;378;469;Commit;Cash
+183;768;520;Commit;Card
+137;306;824;On the way;Cash
+323;362;178;Commit;Cash
+110;893;573;On the way;Card
+136;120;191;Commit;Cash
+937;853;495;On the way;Card
+712;787;435;On the way;Card
+393;348;568;Delivered;Card
+725;208;769;Commit;Cash
+574;419;666;Commit;Card
+629;843;109;Commit;Cash
+14;890;59;Delivered;Card
+1046;686;570;Commit;Card
+378;33;504;Commit;Cash
+298;320;67;On the way;Card
+605;1030;720;Commit;Cash
+858;949;778;On the way;Cash
+32;544;741;Commit;Card
+889;832;518;Commit;Card
+111;410;403;Commit;Cash
+78;208;895;Commit;Card
+658;128;1055;Commit;Card
+670;663;1000;Delivered;Card
+517;583;340;Commit;Cash
+1097;412;1025;Delivered;Cash
+217;598;596;Delivered;Cash
+593;1050;277;Delivered;Card
+866;236;909;Commit;Card
+401;604;169;Delivered;Cash
+1087;170;804;Commit;Cash
+913;654;968;On the way;Cash
+172;320;818;Commit;Cash
+930;367;516;Commit;Cash
+38;814;935;Commit;Cash
+287;695;263;Delivered;Card
+904;843;682;Commit;Cash
+721;391;786;On the way;Cash
+819;753;199;Delivered;Cash
+803;288;747;On the way;Cash
+719;3;466;On the way;Card
+746;173;609;Delivered;Cash
+256;730;200;On the way;Card
+762;236;25;Delivered;Card
+369;967;977;Delivered;Cash
+554;857;604;Delivered;Card
+520;949;437;Delivered;Card
+636;996;837;Commit;Card
+53;430;103;Delivered;Card
+456;984;889;Delivered;Card
+227;717;152;On the way;Card
+710;828;260;Delivered;Cash
+874;1076;104;Commit;Cash
+317;965;813;On the way;Cash
+316;149;780;Commit;Cash
+990;1036;855;Delivered;Card
+84;401;857;Delivered;Card
+65;663;40;Commit;Card
+628;331;684;Delivered;Cash
+1012;465;861;On the way;Card
+600;817;380;Commit;Cash
+312;92;850;Commit;Card
+39;238;744;Delivered;Card
+1041;689;240;Delivered;Cash
+1052;228;207;Delivered;Card
+668;214;888;Commit;Cash
+38;1059;1012;Commit;Cash
+772;779;704;Delivered;Cash
+914;509;530;Delivered;Cash
+752;882;163;On the way;Card
+322;411;483;Commit;Card
+1064;277;798;Delivered;Cash
+92;71;698;Commit;Cash
+784;1039;370;Commit;Cash
+210;315;240;Commit;Cash
+813;310;104;On the way;Cash
+807;813;51;On the way;Cash
+138;783;457;Delivered;Card
+246;70;1070;On the way;Cash
+176;737;196;Commit;Cash
+352;169;9;Commit;Cash
+20;496;255;Delivered;Cash
+366;75;198;On the way;Card
+221;802;669;Delivered;Card
+99;136;891;Delivered;Card
+298;60;435;Delivered;Cash
+167;202;1003;Commit;Cash
+648;638;113;On the way;Card
+1075;154;253;On the way;Cash
+558;908;985;Delivered;Card
+1086;168;171;On the way;Card
+380;438;865;On the way;Card
+854;554;315;Commit;Cash
+264;981;780;Commit;Cash
+916;380;651;Commit;Cash
+470;777;1018;On the way;Card
+47;296;853;On the way;Card
+369;577;127;Delivered;Card
+505;428;1018;Delivered;Card
+110;54;303;On the way;Cash
+724;569;631;On the way;Cash
+183;771;396;Commit;Cash
+208;944;819;Commit;Card
+686;880;1010;Delivered;Cash
+327;993;615;On the way;Cash
+224;1097;714;On the way;Card
+240;355;228;Commit;Cash
+555;707;454;Delivered;Card
+950;327;204;Commit;Cash
+3;731;775;Commit;Card
+196;517;344;Delivered;Card
+487;575;831;On the way;Cash
+61;48;276;Commit;Card
+774;798;351;Commit;Cash
+464;277;266;Delivered;Card
+1010;372;617;Delivered;Card
+280;462;177;Delivered;Cash
+784;574;1068;Delivered;Cash
+699;865;371;On the way;Card
+857;845;49;Commit;Card
+166;434;614;Delivered;Cash
+493;690;1089;Delivered;Card
+426;14;352;Commit;Card
+411;901;203;On the way;Cash
+1017;56;380;On the way;Card
+571;857;53;Delivered;Card
+617;148;22;On the way;Card
+780;934;894;Commit;Card
+1089;68;499;Delivered;Card
+1015;656;960;On the way;Card
+728;670;715;Delivered;Card
+692;726;674;On the way;Cash
+91;199;632;Delivered;Card
+780;903;881;On the way;Cash
+319;245;260;Delivered;Cash
+834;252;1011;Delivered;Cash
+268;400;41;Commit;Cash
+719;1055;650;Commit;Cash
+773;686;457;Delivered;Card
+944;902;478;Delivered;Card
+136;694;746;Delivered;Cash
+361;430;766;On the way;Cash
+11;279;128;Delivered;Card
+403;591;885;Commit;Card
+1068;304;236;Delivered;Cash
+702;811;1061;Commit;Card
+333;122;947;On the way;Card
+225;984;721;On the way;Cash
+914;376;210;On the way;Card
+86;402;1028;Commit;Card
+784;217;942;Commit;Cash
+885;348;878;Delivered;Card
+635;310;491;Delivered;Card
+262;1048;590;On the way;Card
+222;991;119;Delivered;Card
+799;619;801;On the way;Card
+728;528;934;On the way;Cash
+824;922;1083;Commit;Cash
+227;49;950;On the way;Card
+375;843;1054;Delivered;Cash
+529;356;408;Commit;Cash
+522;144;798;On the way;Cash
+875;1085;409;Commit;Cash
+332;49;275;On the way;Cash
+740;108;717;Delivered;Cash
+855;156;394;Commit;Cash
+1021;330;776;Delivered;Card
+481;725;754;Commit;Cash
+659;209;403;On the way;Card
+779;707;37;Delivered;Cash
+707;434;721;Commit;Cash
+137;33;783;Commit;Cash
+325;89;5;Delivered;Cash
+582;6;549;Delivered;Card
+265;1025;343;On the way;Card
+356;1051;881;Commit;Card
+989;361;460;Commit;Cash
+262;154;1058;Commit;Card
+391;121;970;On the way;Cash
+205;202;924;On the way;Card
+1011;896;84;Delivered;Card
+457;100;59;On the way;Card
+556;909;651;Delivered;Card
+201;643;513;Delivered;Cash
+87;425;112;Commit;Card
+150;424;812;Commit;Card
+401;280;306;Commit;Cash
+738;852;175;On the way;Card
+410;998;322;Commit;Cash
+768;475;321;Commit;Cash
+1068;13;122;Delivered;Cash
+96;367;938;On the way;Card
+88;230;103;Delivered;Card
+491;587;834;On the way;Cash
+792;219;38;Delivered;Cash
+875;520;830;On the way;Card
+937;613;376;Delivered;Card
+924;567;79;Commit;Card
+328;332;260;Delivered;Card
+267;435;500;Commit;Cash
+416;89;980;On the way;Card
+13;438;360;Commit;Cash
+842;795;574;Commit;Card
+524;197;792;Delivered;Cash
+677;720;709;Delivered;Card
+304;935;671;Delivered;Card
+277;330;7;Commit;Cash
+66;252;511;Delivered;Card
+480;566;158;Delivered;Card
+421;951;215;On the way;Card
+572;421;528;On the way;Cash
+389;170;716;Commit;Card
+705;117;721;On the way;Card
+42;827;18;Delivered;Cash
+1070;500;559;Commit;Card
+605;522;836;Commit;Card
+680;361;486;On the way;Card
+909;151;599;Commit;Cash
+500;382;214;Delivered;Card
+636;209;276;Delivered;Cash
+829;140;351;Delivered;Card
+1004;134;34;Commit;Cash
+1078;747;350;Delivered;Cash
+1032;39;1013;Commit;Cash
+1046;360;410;On the way;Cash
+148;277;1084;Commit;Cash
+261;458;351;Commit;Cash
+477;364;350;Delivered;Card
+751;97;117;Commit;Card
+315;259;1004;Delivered;Cash
+199;308;455;Commit;Card
+697;320;651;Delivered;Cash
+668;508;332;On the way;Cash
+1039;397;934;On the way;Cash
+1030;514;925;On the way;Card
+659;809;715;On the way;Card
+857;875;409;On the way;Cash
+184;840;1;Delivered;Card
+1035;328;733;Commit;Card
+586;404;553;Delivered;Card
+451;607;182;Commit;Cash
+813;267;883;Commit;Card
+15;512;362;On the way;Card
+734;159;181;On the way;Cash
+6;676;713;Delivered;Card
+898;358;711;Commit;Cash
+932;719;350;Delivered;Cash
+233;205;589;On the way;Cash
+1092;143;761;On the way;Card
+357;416;1075;Commit;Cash
+283;594;339;Commit;Card
+344;412;194;On the way;Cash
+696;1031;1020;Delivered;Card
+108;765;414;Commit;Cash
+763;756;524;Commit;Card
+1076;106;965;On the way;Cash
+184;222;1011;Delivered;Card
+1075;272;488;On the way;Cash
+206;718;972;On the way;Cash
+174;546;163;Delivered;Cash
+910;140;995;Delivered;Cash
+705;976;339;Delivered;Cash
+452;852;176;On the way;Cash
+558;249;429;Commit;Card
+610;932;99;Delivered;Cash
+64;781;903;On the way;Card
+661;600;747;Commit;Cash
+570;220;780;Commit;Card
+515;100;365;On the way;Cash
+277;172;369;Delivered;Card
+115;1023;773;On the way;Cash
+295;983;720;Delivered;Cash
+130;915;24;Commit;Cash
+652;355;542;Delivered;Cash
+206;1031;308;On the way;Card
+777;193;905;Commit;Cash
+815;984;62;Delivered;Cash
+426;954;720;On the way;Cash
+59;733;486;Commit;Card
+986;1074;231;Commit;Cash
+885;82;840;Commit;Cash
+62;420;1047;Commit;Cash
+693;893;63;On the way;Card
+660;972;384;On the way;Cash
+573;18;894;Delivered;Card
+756;419;398;Delivered;Cash
+278;149;1083;On the way;Card
+63;495;173;Delivered;Card
+567;680;647;On the way;Cash
+861;178;408;Delivered;Cash
+1014;579;548;Delivered;Cash
+259;121;312;Commit;Card
+24;15;630;On the way;Card
+196;807;417;Delivered;Cash
+135;1049;156;On the way;Cash
+442;913;369;Commit;Cash
+684;657;289;Delivered;Cash
+300;942;319;Delivered;Cash
+85;491;1056;Commit;Card
+12;36;757;Delivered;Cash
+775;850;93;Commit;Card
+688;550;264;On the way;Card
+1062;276;246;On the way;Cash
+769;927;1001;Commit;Cash
+992;1095;678;On the way;Cash
+181;1009;922;On the way;Cash
+772;324;754;On the way;Cash
+298;678;368;Delivered;Cash
+1093;94;211;Commit;Cash
+182;190;680;Delivered;Cash
+126;1060;1031;Commit;Cash
+1000;663;776;On the way;Cash
+164;753;902;On the way;Cash
+370;1040;230;Delivered;Cash
+75;626;973;Delivered;Cash
+331;86;305;On the way;Cash
+796;856;852;Delivered;Card
+241;734;572;Delivered;Cash
+934;869;693;Delivered;Card
+855;536;546;On the way;Cash
+778;483;1001;Delivered;Card
+124;847;548;Delivered;Card
+548;414;1036;On the way;Cash
+273;480;12;On the way;Card
+937;1062;701;Commit;Card
+734;568;13;Commit;Card
+1040;757;635;Delivered;Cash
+982;696;149;On the way;Card
+590;765;265;Delivered;Card
+238;629;168;On the way;Card
+731;533;737;Delivered;Card
+71;535;568;Commit;Card
+859;281;740;On the way;Card
+402;176;723;On the way;Cash
+470;2;962;On the way;Cash
+375;272;168;Delivered;Card
+352;833;536;Commit;Card
+932;436;398;Delivered;Cash
+1003;580;629;Delivered;Card
+161;864;655;Commit;Cash
+426;157;55;Commit;Cash
+22;270;1018;Commit;Card
+101;279;696;Commit;Cash
+81;549;278;Commit;Card
+49;967;793;On the way;Cash
+988;952;453;On the way;Card
+815;63;110;Commit;Card
+977;111;254;On the way;Cash
+576;811;537;Commit;Cash
+409;721;1029;Delivered;Card
+162;696;70;Delivered;Card
+379;789;959;Commit;Cash
+516;1038;872;Commit;Cash
+542;582;985;Delivered;Card
+504;576;46;On the way;Cash
+3;1085;841;Commit;Card
+879;134;886;Commit;Card
+933;990;1085;Commit;Card
+900;776;225;Delivered;Card
+451;875;436;Commit;Cash
+450;415;347;Commit;Cash
+307;248;807;On the way;Cash
+139;220;862;Delivered;Cash
+726;155;846;Delivered;Cash
+6;1015;920;On the way;Cash
+31;525;648;Commit;Cash
+301;1088;91;Commit;Card
+581;951;876;Delivered;Cash
+213;1071;342;On the way;Cash
+517;314;599;Commit;Cash
+388;916;21;Delivered;Card
+228;1052;93;On the way;Cash
+954;1085;711;On the way;Card
+896;159;549;On the way;Cash
+717;669;77;Commit;Cash
+197;156;418;Delivered;Card
+604;684;839;Delivered;Card
+704;268;112;On the way;Card
+1082;204;655;Delivered;Cash
+910;185;606;On the way;Card
+883;1100;377;Delivered;Cash
+513;326;811;On the way;Card
+199;717;730;On the way;Card
+67;758;343;Delivered;Card
+750;42;776;Delivered;Card
+774;467;1065;On the way;Cash
+1054;344;557;On the way;Cash
+500;115;756;Delivered;Cash
+766;806;128;On the way;Card
+246;569;658;On the way;Card
+83;896;1057;Delivered;Cash
+7;313;380;Delivered;Cash
+935;1017;152;On the way;Card
+138;30;170;Commit;Cash
+86;621;977;Delivered;Card
+643;405;806;On the way;Cash
+954;948;273;On the way;Card
+333;924;752;On the way;Cash
+414;749;66;Commit;Cash
+709;1096;219;Commit;Card
+642;1050;897;Delivered;Cash
+146;139;1081;Commit;Card
+735;1008;409;Delivered;Cash
+263;812;558;Commit;Card
+677;530;793;Commit;Cash
+659;686;265;Delivered;Cash
+838;439;629;On the way;Cash
+970;636;57;On the way;Cash
+1064;408;401;On the way;Cash
+625;1094;631;On the way;Card
+6;106;671;On the way;Cash
+179;1009;715;On the way;Cash
+859;626;299;Delivered;Card
+785;984;396;Delivered;Cash
+784;674;273;On the way;Cash
+253;371;330;On the way;Cash
+144;1047;4;On the way;Card
+139;397;189;On the way;Cash
+275;244;795;On the way;Card
+171;144;791;Commit;Card
+772;446;658;On the way;Card
+610;406;435;Delivered;Card
+997;672;359;Delivered;Cash
+446;728;840;Delivered;Card
+464;76;676;Delivered;Cash
+859;1031;255;Delivered;Cash
+914;1077;1065;Commit;Cash
+73;593;240;Delivered;Card
+863;925;192;On the way;Cash
+73;447;248;Commit;Cash
+610;702;360;Commit;Card
+597;423;962;On the way;Cash
+930;601;658;On the way;Cash
+512;667;259;Delivered;Card
+476;724;603;Delivered;Card
+311;385;93;On the way;Cash
+531;771;217;Commit;Card
+319;887;367;Delivered;Cash
+683;970;487;On the way;Card
+497;639;3;On the way;Card
+390;895;76;Delivered;Cash
+972;740;753;Delivered;Card
+881;555;1096;On the way;Card
+978;1046;67;Delivered;Cash
+1091;361;35;On the way;Cash
+433;116;353;Commit;Card
