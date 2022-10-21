@@ -198,5 +198,6 @@ WHERE name = 'easy';
 SELECT * FROM products_buf
 ORDER BY id;
 
-
+-- тригер при создании заказа с несуществующим продуктом 
+-- должен ошибку вывести
 
