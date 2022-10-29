@@ -1,0 +1,13 @@
+version: "3.5"
+services:
+  test_pg:
+    image: "postgres:latest"
+    container_name: test_pg
+    ports:
+      - "8080:5432"
+    volumes:
+      - ./gen:/home/generate
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_DB: postgres
+      POSTGRES_PASSWORD: postgres

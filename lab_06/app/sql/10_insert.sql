@@ -1,0 +1,1 @@
+insert into favorite_product (product_id, consumer_id) values (5, 5);
