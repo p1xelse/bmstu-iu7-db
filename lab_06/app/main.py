@@ -15,6 +15,7 @@ def print_menu():
              \n\t8. Вызвать системную функцию \
              \n\t9. Создать таблицу в базе данных, соответствующую тематике БД \
              \n\t10. Выполнить вставку данных в созданную таблицу с использованием инструкции INSERT \
+             \n\t11. Курьер по номеру заказа \
            \n\n\t0. Выход\n\n")
 
 
@@ -64,6 +65,15 @@ def table_query(db: Database):
 def insert_query(db: Database):
     db.execute_procedure(SQL_DIR + "10_insert.sql")
 
+def courier_query(db: Database, id):
+    q = """
+select d.courier_id 
+from orders as o
+join deliveries d on d.order_id = o.id 
+where o.id = {};
+""".format(id)
+    res = db.execute_query(q)
+    print("Courier_id:", res[0][0])
 
 def run(db: Database):
     option = None
@@ -96,6 +106,9 @@ def run(db: Database):
                 table_query(db)
             case 10:
                 insert_query(db)
+            case 11:
+                id = int(input("Введите ID заказа: "))
+                courier_query(db, id)
             case _:
                 print("Пункт должен быть больше нуля либо меньше 11")
 

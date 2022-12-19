@@ -7,7 +7,7 @@ RETURNS int AS '
 	HAVING name = name_arg
 ' LANGUAGE SQL;
 
-SELECT count_of_consumers_with_name('easy')
+SELECT count_of_consumers_with_name('easy');
 
 
 -- 2
