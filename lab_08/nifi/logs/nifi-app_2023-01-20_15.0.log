@@ -1,0 +1,21 @@
+2023-01-20 15:23:19,614 INFO [pool-13-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-01-20 15:23:14,546 INFO [Leader Election Notification Thread-3] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b This node is no longer leader for role 'Cluster Coordinator'
+2023-01-20 15:23:12,554 INFO [main-EventThread] o.a.c.f.state.ConnectionStateManager State change: SUSPENDED
+2023-01-20 15:23:14,581 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 Connection State changed to SUSPENDED
+2023-01-20 15:23:14,477 WARN [Clustering Tasks Thread-1] o.apache.nifi.controller.FlowController Failed to send heartbeat due to: org.apache.nifi.cluster.protocol.ProtocolException: Cannot send heartbeat because there is no Cluster Coordinator currently elected
+2023-01-20 15:23:14,576 INFO [pool-13-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2023-01-20 15:23:14,579 INFO [Leader Election Notification Thread-3] o.apache.nifi.controller.FlowController This node is no longer the elected Active Cluster Coordinator
+2023-01-20 15:23:14,582 INFO [main-EventThread] org.apache.zookeeper.ClientCnxnSocket jute.maxbuffer value is 4194304 Bytes
+2023-01-20 15:23:14,583 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager Because Connection State was changed to SUSPENDED, will relinquish leadership for role 'Primary Node'
+2023-01-20 15:23:14,602 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b Connection State changed to SUSPENDED
+2023-01-20 15:23:14,602 INFO [main-EventThread] o.a.c.f.state.ConnectionStateManager State change: LOST
+2023-01-20 15:23:14,602 INFO [Leader Election Notification Thread-2] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 has been interrupted; no longer leader for role 'Primary Node'
+2023-01-20 15:23:14,622 INFO [main-EventThread] o.a.c.f.state.ConnectionStateManager State change: RECONNECTED
+2023-01-20 15:23:14,617 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 Connection State changed to LOST
+2023-01-20 15:23:14,625 INFO [Leader Election Notification Thread-2] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 This node is no longer leader for role 'Primary Node'
+2023-01-20 15:23:14,625 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b Connection State changed to LOST
+2023-01-20 15:23:14,627 INFO [Leader Election Notification Thread-2] o.apache.nifi.controller.FlowController This node is no longer Primary Node
+2023-01-20 15:23:14,628 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 Connection State changed to RECONNECTED
+2023-01-20 15:23:14,632 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b Connection State changed to RECONNECTED
+2023-01-20 15:23:15,043 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@46994f26 checkpointed with 2 Records and 0 Swap Files in 3691 milliseconds (Stop-the-world time = 3454 milliseconds, Clear Edit Logs time = 210 millis), max Transaction ID 15
+2023-01-20 15:23:17,103 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive

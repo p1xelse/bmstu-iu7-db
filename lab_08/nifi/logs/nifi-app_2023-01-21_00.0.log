@@ -1,0 +1,51 @@
+2023-01-21 00:01:07,620 INFO [pool-13-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-01-21 00:00:45,095 INFO [main-EventThread] o.a.c.f.state.ConnectionStateManager State change: SUSPENDED
+2023-01-21 00:00:45,494 INFO [pool-13-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2023-01-21 00:00:45,502 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 Connection State changed to SUSPENDED
+2023-01-21 00:00:45,518 ERROR [Curator-Framework-0] o.a.c.f.imps.CuratorFrameworkImpl Background operation retry gave up
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:102)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.checkBackgroundRetry(CuratorFrameworkImpl.java:862)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:990)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:943)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:66)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:346)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2023-01-21 00:00:46,359 INFO [main-EventThread] org.apache.zookeeper.ClientCnxnSocket jute.maxbuffer value is 4194304 Bytes
+2023-01-21 00:00:46,371 INFO [main-EventThread] o.a.c.f.state.ConnectionStateManager State change: LOST
+2023-01-21 00:00:46,406 INFO [main-EventThread] o.a.c.f.state.ConnectionStateManager State change: RECONNECTED
+2023-01-21 00:00:46,455 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b Connection State changed to SUSPENDED
+2023-01-21 00:00:46,457 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 Connection State changed to LOST
+2023-01-21 00:00:46,460 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b Connection State changed to LOST
+2023-01-21 00:00:46,461 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 Connection State changed to RECONNECTED
+2023-01-21 00:00:46,461 WARN [Clustering Tasks Thread-1] o.apache.nifi.controller.FlowController Failed to send heartbeat due to: org.apache.nifi.cluster.protocol.ProtocolException: Cannot send heartbeat because there is no Cluster Coordinator currently elected
+2023-01-21 00:00:46,463 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b Connection State changed to RECONNECTED
+2023-01-21 00:00:46,496 INFO [main-EventThread] o.a.c.framework.imps.EnsembleTracker New config event received: {}
+2023-01-21 00:00:46,680 INFO [Leader Election Notification Thread-2] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 This node has been elected Leader for Role 'Primary Node'
+2023-01-21 00:00:46,725 INFO [Leader Election Notification Thread-2] o.apache.nifi.controller.FlowController This node has been elected Primary Node
+2023-01-21 00:00:46,720 INFO [Leader Election Notification Thread-4] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b This node has been elected Leader for Role 'Cluster Coordinator'
+2023-01-21 00:00:46,739 INFO [Leader Election Notification Thread-4] o.apache.nifi.controller.FlowController This node elected Active Cluster Coordinator
+2023-01-21 00:00:47,134 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@46994f26 checkpointed with 2 Records and 0 Swap Files in 2978 milliseconds (Stop-the-world time = 2659 milliseconds, Clear Edit Logs time = 294 millis), max Transaction ID 15
+2023-01-21 00:00:50,014 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-01-21 00:00:51,469 INFO [Process Cluster Protocol Request-9] o.a.n.c.p.impl.SocketProtocolListener Finished processing request a1f4daaf-05a1-41db-a70f-f634256f16c8 (type=HEARTBEAT, length=2235 bytes) from mynifi:8080 in 1 millis
+2023-01-21 00:00:51,471 INFO [Clustering Tasks Thread-1] o.a.n.c.c.ClusterProtocolHeartbeater Heartbeat created at 2023-01-21 00:00:51,464 and sent to mynifi:8082 at 2023-01-21 00:00:51,471; send took 6 millis
+2023-01-21 00:00:56,457 INFO [Heartbeat Monitor Thread-1] o.a.n.c.c.h.AbstractHeartbeatMonitor Finished processing 1 heartbeats in 117342 nanos
+2023-01-21 00:00:57,258 INFO [Process Cluster Protocol Request-10] o.a.n.c.p.impl.SocketProtocolListener Finished processing request 2993530a-1d3c-409e-ad02-d0cc0e74164f (type=HEARTBEAT, length=2235 bytes) from mynifi:8080 in 272 millis
+2023-01-21 00:00:57,400 INFO [Clustering Tasks Thread-1] o.a.n.c.c.ClusterProtocolHeartbeater Heartbeat created at 2023-01-21 00:00:56,581 and sent to mynifi:8082 at 2023-01-21 00:00:57,400; send took 817 millis
+2023-01-21 00:01:01,586 INFO [Heartbeat Monitor Thread-1] o.a.n.c.c.h.AbstractHeartbeatMonitor Finished processing 1 heartbeats in 148760 nanos
+2023-01-21 00:01:03,498 INFO [Process Cluster Protocol Request-1] o.a.n.c.p.impl.SocketProtocolListener Finished processing request 9cdc7fee-181a-4675-be84-ae30e8b874c5 (type=HEARTBEAT, length=2235 bytes) from mynifi:8080 in 544 millis
+2023-01-21 00:01:03,742 INFO [Clustering Tasks Thread-1] o.a.n.c.c.ClusterProtocolHeartbeater Heartbeat created at 2023-01-21 00:01:02,584 and sent to mynifi:8082 at 2023-01-21 00:01:03,742; send took 1130 millis
+2023-01-21 00:01:05,510 INFO [pool-13-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-01-21 00:01:05,537 INFO [pool-13-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2023-01-21 00:01:06,609 INFO [Heartbeat Monitor Thread-1] o.a.n.c.c.h.AbstractHeartbeatMonitor Finished processing 1 heartbeats in 276202 nanos
+2023-01-21 00:01:09,081 INFO [Process Cluster Protocol Request-2] o.a.n.c.p.impl.SocketProtocolListener Finished processing request 971201f9-001e-43ad-96a6-b68ebea28be8 (type=HEARTBEAT, length=2235 bytes) from mynifi:8080 in 86 millis
+2023-01-21 00:01:09,478 INFO [Clustering Tasks Thread-1] o.a.n.c.c.ClusterProtocolHeartbeater Heartbeat created at 2023-01-21 00:01:08,803 and sent to mynifi:8082 at 2023-01-21 00:01:09,478; send took 659 millis
+2023-01-21 00:01:11,773 INFO [Heartbeat Monitor Thread-1] o.a.n.c.c.h.AbstractHeartbeatMonitor Finished processing 1 heartbeats in 125768 nanos
+2023-01-21 00:01:15,976 INFO [Process Cluster Protocol Request-3] o.a.n.c.p.impl.SocketProtocolListener Finished processing request 100d7089-aedc-4332-8a76-a8e705932686 (type=HEARTBEAT, length=2235 bytes) from mynifi:8080 in 407 millis
+2023-01-21 00:01:16,352 INFO [Clustering Tasks Thread-1] o.a.n.c.c.ClusterProtocolHeartbeater Heartbeat created at 2023-01-21 00:01:15,067 and sent to mynifi:8082 at 2023-01-21 00:01:16,352; send took 1261 millis
+2023-01-21 00:01:16,939 INFO [Heartbeat Monitor Thread-1] o.a.n.c.c.h.AbstractHeartbeatMonitor Finished processing 1 heartbeats in 115787 nanos

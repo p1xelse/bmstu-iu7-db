@@ -1,0 +1,24 @@
+2023-01-21 06:42:04,427 INFO [pool-13-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-01-21 06:42:05,375 INFO [main-EventThread] o.a.c.f.state.ConnectionStateManager State change: SUSPENDED
+2023-01-21 06:42:05,896 INFO [pool-13-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 2 milliseconds
+2023-01-21 06:42:05,926 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 Connection State changed to SUSPENDED
+2023-01-21 06:42:05,995 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager Because Connection State was changed to SUSPENDED, will relinquish leadership for role 'Primary Node'
+2023-01-21 06:42:06,002 INFO [Leader Election Notification Thread-2] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 has been interrupted; no longer leader for role 'Primary Node'
+2023-01-21 06:42:06,004 INFO [Leader Election Notification Thread-2] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 This node is no longer leader for role 'Primary Node'
+2023-01-21 06:42:06,011 INFO [Leader Election Notification Thread-2] o.apache.nifi.controller.FlowController This node is no longer Primary Node
+2023-01-21 06:42:07,307 INFO [main-EventThread] org.apache.zookeeper.ClientCnxnSocket jute.maxbuffer value is 4194304 Bytes
+2023-01-21 06:42:07,316 INFO [main-EventThread] o.a.c.f.state.ConnectionStateManager State change: LOST
+2023-01-21 06:42:07,373 INFO [main-EventThread] o.a.c.f.state.ConnectionStateManager State change: RECONNECTED
+2023-01-21 06:42:07,401 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b Connection State changed to SUSPENDED
+2023-01-21 06:42:07,404 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 Connection State changed to LOST
+2023-01-21 06:42:07,405 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b Connection State changed to LOST
+2023-01-21 06:42:07,407 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 Connection State changed to RECONNECTED
+2023-01-21 06:42:07,407 INFO [Leader Election Notification Thread-4] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b has been interrupted; no longer leader for role 'Cluster Coordinator'
+2023-01-21 06:42:07,409 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b Connection State changed to RECONNECTED
+2023-01-21 06:42:07,411 INFO [Leader Election Notification Thread-4] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b This node is no longer leader for role 'Cluster Coordinator'
+2023-01-21 06:42:07,412 INFO [Leader Election Notification Thread-4] o.apache.nifi.controller.FlowController This node is no longer the elected Active Cluster Coordinator
+2023-01-21 06:42:07,423 INFO [main-EventThread] o.a.c.framework.imps.EnsembleTracker New config event received: {}
+2023-01-21 06:42:07,493 INFO [Leader Election Notification Thread-4] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b This node has been elected Leader for Role 'Cluster Coordinator'
+2023-01-21 06:42:07,492 INFO [Leader Election Notification Thread-2] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 This node has been elected Leader for Role 'Primary Node'
+2023-01-21 06:42:07,497 INFO [Leader Election Notification Thread-2] o.apache.nifi.controller.FlowController This node has been elected Primary Node
+2023-01-21 06:42:07,496 INFO [Leader Election Notification Thread-4] o.apache.nifi.controller.FlowController This node elected Active Cluster Coordinator

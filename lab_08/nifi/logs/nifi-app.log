@@ -1,0 +1,48 @@
+2023-01-21 11:32:32,993 INFO [pool-13-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-01-21 06:42:11,879 INFO [pool-13-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2023-01-21 06:42:11,562 INFO [main-EventThread] o.a.c.f.state.ConnectionStateManager State change: SUSPENDED
+2023-01-21 06:42:11,974 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 Connection State changed to SUSPENDED
+2023-01-21 06:42:11,978 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager Because Connection State was changed to SUSPENDED, will relinquish leadership for role 'Primary Node'
+2023-01-21 06:42:11,987 INFO [Leader Election Notification Thread-2] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 has been interrupted; no longer leader for role 'Primary Node'
+2023-01-21 06:42:12,003 INFO [Leader Election Notification Thread-2] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 This node is no longer leader for role 'Primary Node'
+2023-01-21 06:42:12,011 INFO [Leader Election Notification Thread-2] o.apache.nifi.controller.FlowController This node is no longer Primary Node
+2023-01-21 06:42:12,730 INFO [main-EventThread] org.apache.zookeeper.ClientCnxnSocket jute.maxbuffer value is 4194304 Bytes
+2023-01-21 06:42:12,734 INFO [main-EventThread] o.a.c.f.state.ConnectionStateManager State change: LOST
+2023-01-21 06:42:12,805 INFO [main-EventThread] o.a.c.f.state.ConnectionStateManager State change: RECONNECTED
+2023-01-21 06:42:12,838 WARN [Clustering Tasks Thread-3] o.apache.nifi.controller.FlowController Failed to send heartbeat due to: org.apache.nifi.cluster.protocol.ProtocolException: Cannot send heartbeat because there is no Cluster Coordinator currently elected
+2023-01-21 06:42:12,839 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b Connection State changed to SUSPENDED
+2023-01-21 06:42:12,845 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 Connection State changed to LOST
+2023-01-21 06:42:12,846 INFO [Leader Election Notification Thread-4] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b has been interrupted; no longer leader for role 'Cluster Coordinator'
+2023-01-21 06:42:12,850 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b Connection State changed to LOST
+2023-01-21 06:42:12,856 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 Connection State changed to RECONNECTED
+2023-01-21 06:42:12,863 INFO [Curator-ConnectionStateManager-0] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b Connection State changed to RECONNECTED
+2023-01-21 06:42:12,851 INFO [Leader Election Notification Thread-2] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 This node has been elected Leader for Role 'Primary Node'
+2023-01-21 06:42:12,856 INFO [Leader Election Notification Thread-4] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b This node is no longer leader for role 'Cluster Coordinator'
+2023-01-21 06:42:12,875 INFO [Leader Election Notification Thread-4] o.apache.nifi.controller.FlowController This node is no longer the elected Active Cluster Coordinator
+2023-01-21 06:42:12,866 INFO [main-EventThread] o.a.c.framework.imps.EnsembleTracker New config event received: {}
+2023-01-21 06:42:12,870 INFO [Leader Election Notification Thread-2] o.apache.nifi.controller.FlowController This node has been elected Primary Node
+2023-01-21 06:42:12,894 INFO [Leader Election Notification Thread-4] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@4923255b This node has been elected Leader for Role 'Cluster Coordinator'
+2023-01-21 06:42:12,919 INFO [Leader Election Notification Thread-4] o.apache.nifi.controller.FlowController This node elected Active Cluster Coordinator
+2023-01-21 06:42:12,909 INFO [Leader Election Notification Thread-2] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 has been interrupted; no longer leader for role 'Primary Node'
+2023-01-21 06:42:12,935 INFO [Leader Election Notification Thread-2] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 This node is no longer leader for role 'Primary Node'
+2023-01-21 06:42:12,938 INFO [Leader Election Notification Thread-2] o.apache.nifi.controller.FlowController This node is no longer Primary Node
+2023-01-21 06:42:12,999 INFO [Leader Election Notification Thread-2] o.a.n.c.l.e.CuratorLeaderElectionManager org.apache.nifi.controller.leader.election.CuratorLeaderElectionManager$ElectionListener@9149398 This node has been elected Leader for Role 'Primary Node'
+2023-01-21 06:42:13,002 INFO [Leader Election Notification Thread-2] o.apache.nifi.controller.FlowController This node has been elected Primary Node
+2023-01-21 06:42:13,742 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@46994f26 checkpointed with 2 Records and 0 Swap Files in 4250 milliseconds (Stop-the-world time = 3418 milliseconds, Clear Edit Logs time = 787 millis), max Transaction ID 15
+2023-01-21 06:42:14,113 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-01-21 06:42:17,903 INFO [Process Cluster Protocol Request-8] o.a.n.c.p.impl.SocketProtocolListener Finished processing request 65a9c55b-ab2b-4ab4-9441-794414d46272 (type=HEARTBEAT, length=2235 bytes) from mynifi:8080 in 53 millis
+2023-01-21 06:42:17,908 INFO [Clustering Tasks Thread-3] o.a.n.c.c.ClusterProtocolHeartbeater Heartbeat created at 2023-01-21 06:42:17,841 and sent to mynifi:8082 at 2023-01-21 06:42:17,908; send took 66 millis
+2023-01-21 06:42:22,843 INFO [Heartbeat Monitor Thread-1] o.a.n.c.c.h.AbstractHeartbeatMonitor Finished processing 1 heartbeats in 228880 nanos
+2023-01-21 06:42:22,924 INFO [Process Cluster Protocol Request-9] o.a.n.c.p.impl.SocketProtocolListener Finished processing request 9a53b480-fc1d-4954-9e4f-4f18b0c6e1eb (type=HEARTBEAT, length=2235 bytes) from mynifi:8080 in 8 millis
+2023-01-21 06:42:22,930 INFO [Clustering Tasks Thread-3] o.a.n.c.c.ClusterProtocolHeartbeater Heartbeat created at 2023-01-21 06:42:22,910 and sent to mynifi:8082 at 2023-01-21 06:42:22,930; send took 19 millis
+2023-01-21 06:42:27,849 INFO [Heartbeat Monitor Thread-1] o.a.n.c.c.h.AbstractHeartbeatMonitor Finished processing 1 heartbeats in 24860 nanos
+2023-01-21 06:42:27,942 INFO [Process Cluster Protocol Request-10] o.a.n.c.p.impl.SocketProtocolListener Finished processing request b08dc5d3-ac59-48ad-bdf2-cdadbc298ad6 (type=HEARTBEAT, length=2235 bytes) from mynifi:8080 in 4 millis
+2023-01-21 06:42:27,947 INFO [Clustering Tasks Thread-3] o.a.n.c.c.ClusterProtocolHeartbeater Heartbeat created at 2023-01-21 06:42:27,933 and sent to mynifi:8082 at 2023-01-21 06:42:27,947; send took 14 millis
+2023-01-21 06:42:31,944 INFO [pool-13-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-01-21 06:42:31,946 INFO [pool-13-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2023-01-21 06:42:32,853 INFO [Heartbeat Monitor Thread-1] o.a.n.c.c.h.AbstractHeartbeatMonitor Finished processing 1 heartbeats in 22695 nanos
+2023-01-21 06:42:32,961 INFO [Process Cluster Protocol Request-1] o.a.n.c.p.impl.SocketProtocolListener Finished processing request 3232c101-867d-4a9f-b732-ad30f7da09fd (type=HEARTBEAT, length=2235 bytes) from mynifi:8080 in 6 millis
+2023-01-21 06:42:32,974 INFO [Clustering Tasks Thread-3] o.a.n.c.c.ClusterProtocolHeartbeater Heartbeat created at 2023-01-21 06:42:32,949 and sent to mynifi:8082 at 2023-01-21 06:42:32,974; send took 25 millis
+2023-01-21 06:42:37,856 INFO [Heartbeat Monitor Thread-1] o.a.n.c.c.h.AbstractHeartbeatMonitor Finished processing 1 heartbeats in 26689 nanos
+2023-01-21 06:42:37,989 INFO [Process Cluster Protocol Request-2] o.a.n.c.p.impl.SocketProtocolListener Finished processing request d1aa604f-98cb-4fb8-8454-14f6e063e1f0 (type=HEARTBEAT, length=2235 bytes) from mynifi:8080 in 5 millis
+2023-01-21 06:42:37,993 INFO [Clustering Tasks Thread-3] o.a.n.c.c.ClusterProtocolHeartbeater Heartbeat created at 2023-01-21 06:42:37,977 and sent to mynifi:8082 at 2023-01-21 06:42:37,993; send took 15 millis
